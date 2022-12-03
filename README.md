@@ -1,2 +1,6 @@
-# GulpSassBoilerplate
-Boiletplate project using Gulp to compile SCSS, etc.
+# Gulp boilerplate
+A front-end boilerplate using Gulp as build tool.
+
+### Documentation ###
+
+TODO
