@@ -1,21 +1,21 @@
 {
-  "name": "freshcart",
-  "version": "1.0.1",
-  "description": "Ecommerce website template",
+  "name": "gulpsassboilerplate",
+  "version": "1.0",
+  "description": "A front-end boilerplate using Gulp as build tool.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codescandy/freshcart.git"
+    "url": "git+https://github.com/nelnico/GulpSassBoilerplate.git"
   },
-  "author": "codescandy",
-  "license": "ISC",
+  "author": "Nico",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codescandy/freshcart/issues"
+    "url": "https://github.com/nelnico/GulpSassBoilerplate/issues"
   },
-  "homepage": "https://github.com/codescandy/freshcart#readme",
+  "homepage": "https://github.com/nelnico/GulpSassBoilerplate#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.4",
     "browser-sync": "^2.27.9",
